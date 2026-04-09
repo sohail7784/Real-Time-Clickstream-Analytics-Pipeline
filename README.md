@@ -21,8 +21,6 @@ A Python producer generates realistic e-commerce events (views, add-to-cart, che
 ## Architecture
 
 ```
-Extrac The ZIP Folder
-
 Python Producer (~100 events/sec)
         │
         ▼
@@ -47,7 +45,7 @@ Python Producer (~100 events/sec)
 ---
 
 ## Quick Start
-
+First Of Extract The ZIP Folder
 **Prerequisites:** Docker Desktop, Python 3.9+
 
 ```bash

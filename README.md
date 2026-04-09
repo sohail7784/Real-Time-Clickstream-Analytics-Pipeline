@@ -108,8 +108,6 @@ Live charts for hourly revenue, event counts, and top products will appear immed
 ---
 
 ## Teardown
-
-```bash
 docker compose down -v
 
 

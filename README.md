@@ -45,7 +45,8 @@ Python Producer (~100 events/sec)
 ---
 
 ## Quick Start
-First Of Extract The ZIP Folder
+First Of Extract The ZIP Folder then 
+
 **Prerequisites:** Docker Desktop, Python 3.9+
 
 ```bash

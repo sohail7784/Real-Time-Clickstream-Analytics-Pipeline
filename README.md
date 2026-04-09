@@ -111,8 +111,6 @@ Live charts for hourly revenue, event counts, and top products will appear immed
 
 ```bash
 docker compose down -v
-```
 
----
 
 **Mohammed Sohail** — [GitHub](https://github.com/sohail7784) · [Portfolio](https://mohammed-sohail.vercel.app)

@@ -21,6 +21,8 @@ A Python producer generates realistic e-commerce events (views, add-to-cart, che
 ## Architecture
 
 ```
+Extrac The ZIP Folder
+
 Python Producer (~100 events/sec)
         │
         ▼
